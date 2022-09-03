@@ -1,0 +1,11 @@
+{
+  "name": "bash_scripting",
+  "version": "1.0.0",
+  "description": "practice on the using bash scripting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafaa benrhouma",
+  "license": "ISC"
+}
